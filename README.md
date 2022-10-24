@@ -4,7 +4,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">Graduated as a Computer Technician by CVT Três Rios, I am currently a student of the Kenzie Academy Brasil in Full Stack Web Development training and majoring in Software Engineering. Every day I try to put my knowledge into practice in order to improve techniques and soft-skills applied to my area of ​​interest.</p>
 
-<h3 align="left">Languages and Tools (Learning)</h3>
+<h3 align="left">💻 Languages and Tools (Learning)</h3>
 <div style="display: inline_block"><br>    
   <img align="center" alt="Eric-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />    
   <img align="center" alt="Eric-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />           
@@ -31,21 +31,100 @@
 </div>
 
 ##
+<table align="left">
+  <tr align="left">
+    <th>Front-end</th>
+    <th>Back-end</th>    
+    <th>Tests</th>
+    <th>Database</th>
+    <th>Desktop</th>
+    <th>DevOps</th>
+    <th>Others</th>   
+  </tr>
+  <tr>
+    <td>Flutter</td>
+    <td>Typescript</td>
+    <td>Mocha</td>
+    <td>MySQL</td>
+    <td>Pascal</td>
+    <td>Docker</td> 
+    <td>Heroku</td>   
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>Node.js</td>
+    <td>Chai</td>
+    <td>Postgres</td>
+    <td>VB .NET</td>
+    <td>Kubernetes</td>  
+    <td>Git</td>   
+  </tr>
+  <tr>
+    <td>CSS3</td>
+    <td>Java</td>
+    <td>Sinon</td>
+    <td>Firebird</td>
+    <td>Delphi</td>
+    <td>Nginx</td>  
+    <td>Figma</td>  
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>Express</td>
+    <td>RTL</td>
+    <td>Sql Server</td>
+    <td>Lazarus</td>
+    <td>Apache</td>   
+    <td>Adobe XD</td> 
+  </tr>
+  <tr>
+    <td>Next.js</td>
+    <td>PHP</td>
+    <td>Jest</td>
+    <td>Paradox</td>
+    <td></td>
+    <td>Linux</td>   
+    <td>JWT</td>   
+  </tr>
+  <tr>
+    <td>Bootstrap</td>
+    <td>Python</td>
+    <td></td>
+    <td>MongoDB</td>
+    <td></td>
+    <td>Digital Ocean</td>   
+    <td>Firebase</td>   
+  </tr>
+  <tr>
+    <td>SASS/SCSS</td>
+    <td>TypeOrm</td>
+    <td></td>
+    <td>Redis</td>
+    <td></td>
+    <td>AWS</td>   
+    <td>Rest</td>
+  </tr>
+  <tr>
+    <td>Wordpress</td>
+    <td>Sequelize</td>
+    <td></td>
+    <td>SqlLite</td>
+    <td></td>
+    <td>GCP</td>
+    <td>SOAP</td>    
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Nest.js</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>SQL</td>    
+  </tr>
+</table>
 
-<!--
-**cirebox/cirebox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Hoje trabalho como desenvolvedor Full Stack
-- 🌱 Estudando ReactJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: ...
--->
+##
 
 <div align="left">
   <a href="https://github.com/cirebox">
@@ -53,8 +132,9 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirebox&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## Contact
+## ✉️ Contact
   
+  The links below do not open in a new tab. To do this, use: CTRL+click (on Windows and Linux) or CMD+click (on MacOS)
 <div> 
   <a href = "mailto:suportecire@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eric_pereira95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
