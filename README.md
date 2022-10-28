@@ -145,10 +145,11 @@
 <p align="left">The links below do not open in a new tab. To do this, use: CTRL+click (on Windows and Linux) or CMD+click (on MacOS)</p>
   
 <div>
-  <a href = "mailto:suportecire@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:suportecire@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://instagram.com/eric_pereira95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/cire" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://api.whatsapp.com/send?phone=5524992405601&text=Ol%C3%A1%20Eric%20tudo%20bem?%20Gostaria%20de%20saber%20mais%20sobre%20seus%20projetos.%20Gostei%20do%20teu%20perfil%20no%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "https://portfolio-eric-pereira.vercel.app"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>   
 </div>
 
 ##
@@ -160,6 +161,23 @@
 </div>
  
   ![Snake animation](https://github.com/cirebox/cirebox/blob/output/github-contribution-grid-snake.svg)
+  
+  <details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=cirebox&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+  </p>
+</details>
+  
+  <details>
+  <summary><b>📈 GitHub Streaks</b></summary>
+  <br />
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cirebox&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=cirebox&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+  </p>
+</details>
   
   <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ericpereiri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wetty1" /></a></p><br><br>
