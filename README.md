@@ -1,5 +1,10 @@
 <h1 align="left">Hi 👋, I'm Eric Pereira</h1>
-<h3 align="left">Brazilian Full Stack Developer<img align="right" src="https://komarev.com/ghpvc/?username=cirebox&label=Profile%20views&color=0e75b6&style=flat" alt="cirebox" /></h3>
+<h3 align="left">Brazilian Full Stack Developer</h3>
+
+[![wakatime](https://wakatime.com/badge/user/93f2e3fd-96f8-4edf-83d9-f46179f00d2c.svg)](https://wakatime.com/@93f2e3fd-96f8-4edf-83d9-f46179f00d2c)
+[![GitHub cirebox]( https://img.shields.io/github/followers/cirebox?label=follow&style=social)](https://github.com/cirebox/)
+![GitHub Org's stars](https://img.shields.io/github/stars/cirebox?style=social)
+<img align="right" src="https://komarev.com/ghpvc/?username=cirebox&label=Profile%20views&color=0e75b6&style=flat" alt="cirebox" />
 
 <h3 align="left">About Me</h3>
 <p align="left">Graduated as a Computer Technician by CVT Três Rios, I am currently a student of the Kenzie Academy Brasil in Full Stack Web Development training and majoring in Software Engineering. Every day I try to put my knowledge into practice in order to improve techniques and soft-skills applied to my area of ​​interest.</p>
