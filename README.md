@@ -11,7 +11,7 @@
 
 <p align="left">
 
-- 🔭 I currently work at **[Cartões Vai Bem](https://cartaovaibem.com.br)** 
+- 🔭 I currently work at **[Raro Labs](https://rarolabs.com.br)** 
 
 - 🌱 Currently studying **[React](https://pt-br.reactjs.org) with [NextJS](https://nextjs.org)**
 
