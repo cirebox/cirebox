@@ -111,7 +111,7 @@
     </tr>
     <tr>
       <td>SASS/SCSS</td>
-      <td>TypeOrm</td>
+      <td>Kotlin</td>
       <td></td>
       <td>Redis</td>
       <td></td>
@@ -120,7 +120,7 @@
     </tr>
     <tr>
       <td>Wordpress</td>
-      <td>Sequelize</td>
+      <td>C#</td>
       <td></td>
       <td>SqlLite</td>
       <td></td>
