@@ -11,11 +11,11 @@
 
 <p align="left">
 
-- 🔭 I currently work at **[Raro Labs](https://rarolabs.com.br)** 
+- 🔭 I currently work at **[Rúmina](https://rumina.com.br)** 
 
 - 🌱 Currently studying **[React](https://pt-br.reactjs.org) with [NextJS](https://nextjs.org)**
 
-- 💬 Ask me about **[Nodejs](https://nodejs.org/en), [Nestjs](https://nestjs.com), [Flutter](https://flutter.dev), [Reactjs](https://pt-br.reactjs.org) and [Delphi](https://www.embarcadero.com)**
+- 💬 Ask me about **[Flutter](https://flutter.dev), [Nodejs](https://nodejs.org/en), [Nestjs](https://nestjs.com), [Reactjs](https://pt-br.reactjs.org) and [Delphi](https://www.embarcadero.com)**
 
 </p>
 
