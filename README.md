@@ -11,7 +11,7 @@
 
 <p align="left">
 
-- 🔭 I currently work at **[GYRA+](https://rumina.com.br](https://gyramais.com.br/)** 
+- 🔭 I currently work at **[GYRA+](https://gyramais.com.br/)** 
 
 - 🌱 Currently studying **[Python](https://www.python.org/)**
 
