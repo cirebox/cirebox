@@ -7,15 +7,15 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=cirebox&label=Profile%20views&color=0e75b6&style=flat" alt="cirebox" />
 
 <h3 align="left">About Me</h3>
-<p align="left">Graduated as a Computer Technician by CVT Três Rios, I am currently a student of the Kenzie Academy Brasil in Full Stack Web Development training and majoring in Software Engineering. Every day I try to put my knowledge into practice in order to improve techniques and soft-skills applied to my area of ​​interest.</p>
+<p align="left">I graduated as a Computer Technician from CVT Três Rios and further pursued my education by earning a degree in Systems Analysis and Development. Currently, I am a student at Kenzie Academy Brasil, where I am focusing on Full Stack Web Development and specializing in Software Engineering. Each day, I actively apply my knowledge to enhance both technical skills and soft skills within my field of interest.</p>
 
 <p align="left">
 
-- 🔭 I currently work at **[Rúmina](https://rumina.com.br)** 
+- 🔭 I currently work at **[GYRA+]([https://rumina.com.br](https://gyramais.com.br/))** 
 
-- 🌱 Currently studying **[React](https://pt-br.reactjs.org) with [NextJS](https://nextjs.org)**
+- 🌱 Currently studying **[Python](https://www.python.org/)**
 
-- 💬 Ask me about **[Flutter](https://flutter.dev), [Nodejs](https://nodejs.org/en), [Nestjs](https://nestjs.com), [Reactjs](https://pt-br.reactjs.org) and [Delphi](https://www.embarcadero.com)**
+- 💬 Ask me about **[Flutter](https://flutter.dev), [Nodejs](https://nodejs.org/en), [Nestjs](https://nestjs.com), [NextJS](https://nextjs.org), [Reactjs](https://pt-br.reactjs.org) and [Delphi](https://www.embarcadero.com)**
 
 </p>
 
