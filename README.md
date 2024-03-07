@@ -19,7 +19,7 @@
 
 </p>
 
-<h3 align="left">[✉️ Contact](https://beacons.ai/ericpereira)</h3>  
+<h3 align="left">**[✉️ Contact](https://beacons.ai/ericpereira)**</h3>  
 <p align="left">The links below do not open in a new tab. To do this, use: CTRL+click (on Windows and Linux) or CMD+click (on MacOS)</p>
   
 <div>
