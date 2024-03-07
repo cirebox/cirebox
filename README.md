@@ -23,8 +23,7 @@
 <p align="left">The links below do not open in a new tab. To do this, use: CTRL+click (on Windows and Linux) or CMD+click (on MacOS)</p>
   
 <div>
-  <a href = "mailto:suportecire@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://instagram.com/eric_pereira95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:suportecire@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>     
   <a href="https://www.linkedin.com/in/cire" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://api.whatsapp.com/send?phone=5524992405601&text=Ol%C3%A1%20Eric%20tudo%20bem?%20Gostaria%20de%20saber%20mais%20sobre%20seus%20projetos.%20Gostei%20do%20teu%20perfil%20no%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "https://portfolio-eric-pereira.vercel.app"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>   
