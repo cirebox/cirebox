@@ -11,8 +11,6 @@
 
 <p align="left">
 
-- 🔭 I currently work at **[CireBox](https://cirebox.com.br/)** 
-
 - 🌱 Currently studying **[Python](https://www.python.org/)**
 
 - 💬 Ask me about **[Flutter](https://flutter.dev), [Nodejs](https://nodejs.org/en), [Reactjs](https://pt-br.reactjs.org), [Nestjs](https://nestjs.com), [NextJS](https://nextjs.org) and [Delphi](https://www.embarcadero.com)**
